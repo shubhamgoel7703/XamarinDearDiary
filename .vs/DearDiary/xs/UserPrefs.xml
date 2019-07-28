@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{2FD2D391-73EA-484A-9486-E33161EE3032}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/DearDiary.Droid.csproj">
+    <Files>
+      <File FileName="packages/Xamarin.Forms.4.1.0.618606/build/Xamarin.Forms.targets" Line="87" Column="4" />
+      <File FileName="DearDiary/Pages/MasterPage/MainPageMaster.xaml" Line="5" Column="57" />
+      <File FileName="Droid/DearDiary.Droid.csproj" Line="109" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DearDiary" expanded="True">
+            <Node name="DearDiary" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="MasterPage" expanded="True">
+                  <Node name="MainPageMaster.xaml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DearDiary.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6A39C9F1-BA4C-48E1-966E-83B2695599A0" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DearDiary.UITests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

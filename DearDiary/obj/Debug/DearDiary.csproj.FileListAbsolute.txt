@@ -1,0 +1,14 @@
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/App.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/Pages/DearDiaryPage.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/Pages/MainPage.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/Pages/FavouriteDaysPage.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/Pages/SavedDaysPage.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/Pages/SettingsPage.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/Pages/LifeGraphPage.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/Pages/MasterDetail.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/Pages/MasterPage/ContactsPage.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/Pages/MasterPage/MainPageMaster.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/Pages/MasterPage/MasterPage.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/Pages/MasterPage/ReminderPage.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/Pages/MasterPage/TodoListPage.xaml.g.cs
+/Users/shubhamgoel/Projects/DearDiary/DearDiary/obj/Debug/DearDiary.csproj.CoreCompileInputs.cache

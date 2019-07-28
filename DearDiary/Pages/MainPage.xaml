@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    x:Class="DearDiary.Pages.MainPage"
+    xmlns:local="clr-namespace:DearDiary.Markup" Title="MainPage">
+   
+    <StackLayout Margin="0" Spacing="0">
+        <Image x:Name="favImage" BackgroundColor="White" HorizontalOptions="End" 
+            Source="{local:EmbImage DearDiary.Images.Heart.png}"
+            HeightRequest="30" WidthRequest="30" Margin="10" >
+        </Image>
+         <Image BackgroundColor="White" x:Name="image" Source="{local:EmbImage DearDiary.Images.5.png}" 
+            HorizontalOptions="Center" HeightRequest="110" WidthRequest="110"
+         Margin="0"></Image>
+
+        <Label x:Name="label" Text="Rating" HorizontalOptions="Center" 
+            Margin="7">
+        </Label>
+
+        <Slider x:Name="slider" HorizontalOptions="Center" WidthRequest="150"
+            Margin="5" ValueChanged="Handle_ValueChanged">
+        </Slider>
+
+       
+        <Editor Completed="Handle_Completed" x:Name="editor" BackgroundColor="White" HeightRequest="280" Margin="20"
+            Text="Description">
+        </Editor> 
+       
+                
+    </StackLayout>
+
+</ContentPage>
